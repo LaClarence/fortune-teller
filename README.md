@@ -1,8 +1,8 @@
 # Graalvm - Fortune Teller demo
 
-The fortune teller demo is based on the [article](https://graalvm.github.io/native-build-tools/latest/maven-plugin-quickstart.html)
+The fortune teller demo is based on this [article](https://graalvm.github.io/native-build-tools/latest/maven-plugin-quickstart.html)
 using Graalvm:
-Java(TM) SE Runtime Environment Oracle GraalVM 23+37.1 (build 23+37-jvmci-b01)
+* Java(TM) SE Runtime Environment Oracle GraalVM 23+37.1 (build 23+37-jvmci-b01)
 
 ## build package (ie jar)
 
