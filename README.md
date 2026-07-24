@@ -1,6 +1,6 @@
 # Graalvm - Fortune Teller demo
 
-The fortune teller demo is based on this [article](https://graalvm.github.io/native-build-tools/latest/maven-plugin-quickstart.html)
+The fortune teller demo is based on this [article](https://graalvm.github.io/native-build-tools/latest/end-to-end-maven-guide.html)
 using Graalvm:
 * Java(TM) SE Runtime Environment Oracle GraalVM 25.0.2+10.1 (build 25.0.2+10-LTS-jvmci-b01)
 
@@ -40,7 +40,7 @@ Build artifacts:
 ```
 /xxx/fortune-teller/target/fortune (executable)
 ========================================================================================================================
-Finished generating 'fortune' in 34,8s.
+Finished generating 'fortune' in 29,8s.
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------

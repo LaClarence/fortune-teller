@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <imageName>fortune</imageName>
-        <mainClass>flejne.dev.Fortune</mainClass>
+        <mainClass>flejne.dev.FortuneTeller</mainClass>
 
         <junit.version>6.1.2</junit.version>
         <jackson-databind.version>2.22.1</jackson-databind.version>
