@@ -2,7 +2,7 @@
 
 The fortune teller demo is based on this [article](https://graalvm.github.io/native-build-tools/latest/maven-plugin-quickstart.html)
 using Graalvm:
-* Java(TM) SE Runtime Environment Oracle GraalVM 23+37.1 (build 23+37-jvmci-b01)
+* Java(TM) SE Runtime Environment Oracle GraalVM 25.0.2+10.1 (build 25.0.2+10-LTS-jvmci-b01)
 
 ## build package (ie jar)
 
@@ -10,8 +10,8 @@ using Graalvm:
 mvn clean package
 ```
 shall build jars:
-* target/fortune-teller-1.0-SNAPSHOT.jar
-* target/fortune-teller-1.0-SNAPSHOT-jar-with-dependencies.jar
+* target/fortune-teller-1.1-SNAPSHOT.jar
+* target/fortune-teller-1.1-SNAPSHOT-jar-with-dependencies.jar
 
 launch command:
 ```
@@ -48,7 +48,6 @@ Finished generating 'fortune' in 34,8s.
 
 Launching executable fortune lead to this message:
 ```
-~/graalvm-ws/fortune-teller
 ./target/fortune
 Learn to pause -- or nothing worthwhile can catch up to you.
 ```
